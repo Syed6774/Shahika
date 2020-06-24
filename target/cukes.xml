@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0.173207">
+<testcase classname="Application Login Functionality" name="home page default login" time="0.173207">
+<system-out><![CDATA[Given user has access to the application....................................passed
+When Browser is launched....................................................passed
+Then user should be able to nagivate to EPIC URL............................passed
+Given user is on Netbanking landing page....................................passed
+When user login into application with "usnernamehello" and "passwordhello"..passed
+Then Home page is populated.................................................passed
+And cards displayed are "false".............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
