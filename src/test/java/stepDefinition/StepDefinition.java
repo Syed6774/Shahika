@@ -40,7 +40,7 @@ public void user_has_access_to_the_application() throws Throwable {
 
 @When("^Browser is launched$")
 public void browser_is_launched() throws Throwable {
-	 System.out.println("BACKGROUND:BROWSER IS LAUNCHED");
+	 System.out.println("BACKGROUND:BROWSER IS NOT LAUNCHED");
 }
 
 @Then("^user should be able to nagivate to EPIC URL$")
