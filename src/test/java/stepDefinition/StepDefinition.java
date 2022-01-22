@@ -30,6 +30,7 @@ public class StepDefinition extends Base {
 	    public void user_login_into_application_with_something_and_something(String strArg1, String strArg2) throws Throwable {
 	       
 		 System.out.println(strArg1+strArg2);
+		    System.out.println("Hello"
 		 
 		 
 	    }
